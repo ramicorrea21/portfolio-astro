@@ -249,14 +249,14 @@
       "url": "https://cascoblanco.com.ar"
     },
     {
-      "name": "WhichAi",
+      "name": "Shortcat",
       "isActive": true,
-      "description": "Search engine for artificial intelligence tools",
+      "description": "Simple fast and intuitive URL shortener",
       "highlights": [
-        "Personal project",
-        "React & Flask"
+        "Tool",
+        "Astro & Flask"
       ],
-      "url": "https://sample-service-name-5oti.onrender.com/"
+      "url": "https://shortcat.vercel.app/"
     }
   ]
 }
