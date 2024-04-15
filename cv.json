@@ -251,9 +251,9 @@
     {
       "name": "Shortcat",
       "isActive": true,
-      "description": "Intuitive, Simple and fast URL shortener",
+      "description": "Simple, intuitivo y rapido acortador de URLs",
       "highlights": [
-        "Tool",
+        "Herramienta",
         "Astro & Flask"
       ],
       "url": "https://shortcat.vercel.app/"
