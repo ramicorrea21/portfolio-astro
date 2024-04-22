@@ -251,13 +251,22 @@
     {
       "name": "Shortcat",
       "isActive": true,
-      "description": "Simple, intuitivo y rapido acortador de URLs",
+      "description": "Intuitivo y rapido acortador de URLs",
       "highlights": [
         "Herramienta",
         "Astro & Flask"
       ],
       "url": "https://shortcat.vercel.app/"
+    },
+    {
+      "name": "Code Internationalizer",
+      "isActive": true,
+      "description": "Traductor de codigo a diferentes idiomas, utilizando GPT-3.5",
+      "highlights": [
+        "Herramienta",
+        "Next, Flask, OpenAI API"
+      ],
+      "url": "https://code-internationalizer.vercel.app/"
     }
-
   ]
 }
